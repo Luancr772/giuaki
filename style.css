@@ -68,6 +68,10 @@ h6 {
   margin: 25px 0;
 }
 
+.fullPass {
+  position: relative;
+}
+
 button {
   display: block;
   margin: 0 auto;
@@ -82,4 +86,10 @@ button {
 .Noaccount {
   text-align: center;
   margin: 25px 0;
+}
+
+ion-icon {
+  position: absolute;
+  right: 20%;
+  top: 30%;
 }
