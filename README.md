@@ -1,3 +1,3 @@
-# giuaki
+https://github.com/Luancr772/giuaki
 
-Hú, tui có thấy đề :v
+Dùng code này nha, phía trên bị lỗi rồi hay sao á
